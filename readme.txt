@@ -9,6 +9,9 @@ Author
 
 Build instructions:
   * Run build.xml with target jars (default)
+
+  * This requires Jabref so ensure you first download that source and
+    perform ant build.jabref, where the folder path is set correctly.
   
 Changelog: 
 
@@ -19,3 +22,5 @@ Changelog:
 
   * 2011-10-12 - V0.3 - New host inspirehep.net; Fetch up
                         to 100 entries.
+
+  * 2015-08-04 - V0.4 - Fixed up Inspire.
